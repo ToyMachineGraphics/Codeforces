@@ -5,7 +5,7 @@ using std::cout;
 
 int main(void)
 {
-	int M,N;
+	int M, N;
 
 	cin >> M >> N;
 
